@@ -112,3 +112,57 @@ header ul li a
     color: crimson;
     font-family: fantasy;
 }
+
+/* team section start */
+
+#team
+{
+    width: 100%;
+    height: 500px;
+
+}
+
+.teamcont1
+{
+    background-color: coral;
+    height: 450px;
+    padding-top: 50px;
+
+}
+
+.teamLeft
+{
+    margin-left: 4%;
+    width: 26%;
+    float: left;
+    height: 250px;
+    padding: 0 2%;
+}
+
+.teamRight
+{
+    margin-left: 2%;
+    width: 60%;
+    margin-right: 4%;
+    float: left;
+}
+
+#contactcont1
+{
+    width: 100%;
+    height: 400px;
+
+}
+
+.contactLeft1,.contactRight
+{
+    width: 50%;
+    float: left;
+
+}
+
+.contactcont1
+{
+    width: 92%;
+    margin: 0 4%;
+}
